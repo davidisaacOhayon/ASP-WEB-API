@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Refresher")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+52c038007adfa6a2131a63b90d5b5bc3770109bf")]
 [assembly: System.Reflection.AssemblyProductAttribute("Refresher")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Refresher")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
